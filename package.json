@@ -1,0 +1,34 @@
+{
+  "name": "pnd.tl",
+  "version": "1.0.1",
+  "description": "pnd.tl üzerinden link kılsatmanızı sağlar",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Furtsy/pnd.tl.git"
+  },
+  "keywords": [
+   "pnd.tl",
+   "link kısaltma",
+   "link kısalt",
+   "link kısaltıcı",
+   "url kısaltma",
+   "url kısaltıcı",
+   "url kısalt",
+   "url", 
+   "short",
+   "shortener"
+  ],
+  "author": "Furtsy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Furtsy/pnd.tl/issues"
+  },
+  "homepage": "https://github.com/Furtsy/pnd.tl#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
