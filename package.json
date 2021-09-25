@@ -1,0 +1,46 @@
+{
+  "name": "rss-tool",
+  "version": "1.0.0",
+  "description": "allows you to use rss easily",
+  "main": "function.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Furtsy/rss-tool.git"
+  },
+  "keywords": [
+    "rss",
+    "xml",
+    "feed",
+    "feed builder",
+    "rss feed",
+    "parser",
+    "podcasts",
+    "sitemap",
+    "site map",
+    "rss to json",
+    "rss reader",
+    "rss finder",
+    "read rss",
+    "rss parser",
+    "rss to js",
+    "feed reader",
+    "atom",
+    "rss-to-json",
+    "xml2js",
+    "xml2json",
+    "feed parser",
+    "rss json"
+  ],
+  "author": "Furtsy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Furtsy/rss-tool/issues"
+  },
+  "homepage": "https://github.com/Furtsy/rss-tool#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
